@@ -15,7 +15,7 @@ This repository contains an Apex script for deduplicating leads in Salesforce. T
 
 ## ⚙️ Configuration
 
-Modify the `LeadDuplicateCleaner` class to adjust:
+Modify the `LeadDuplicateCleaner.cls` class to adjust:
 - **Fields used for matching** (e.g., Email, Phone).
 - **Rules for deleting duplicates** (e.g., current rule is to prioritize the oldest lead).
 
@@ -33,7 +33,7 @@ The script can be automated using:
 
 ## ✅ Testing
 
-The repository includes a comprehensive test class (`LeadDuplicateCleanerTest`) with test cases covering:
+The repository includes a comprehensive test class (`LeadDuplicateCleanerTest.cls`) with test cases covering:
 - Detection of duplicates.
 - Successful deletion of leads.
 - Exception handling.
