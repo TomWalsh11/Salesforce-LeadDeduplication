@@ -8,7 +8,6 @@ This repository contains an Apex script for deduplicating leads in Salesforce. T
 
 - Detects duplicate leads using name and email.
 - Deletes duplicate leads while preserving the oldest lead.
-- Handles exceptions to ensure data integrity.
 - Easy to configure and extend for your specific business needs.
 
 ---
