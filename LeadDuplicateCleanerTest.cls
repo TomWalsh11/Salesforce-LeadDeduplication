@@ -5,7 +5,7 @@ public class LeadDuplicateCleanerTest {
         // Create duplicate leads based on Email, FirstName, and LastName
         List<Lead> leads = new List<Lead>();
 
-        // These will simulate duplicates with the same Email but different creation times
+        // These will simulate duplicates with the same Name & Email but different creation times
         leads.add(new Lead(FirstName = 'John', LastName = 'Doe', Email = 'johndoe@example.com', Company = 'Acme Inc.'));
         leads.add(new Lead(FirstName = 'John', LastName = 'Doe', Email = 'johndoe@example.com', Company = 'Acme Inc.'));
         leads.add(new Lead(FirstName = 'John', LastName = 'Doe', Email = 'johndoe@example.com', Company = 'Acme Inc.'));
