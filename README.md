@@ -1,4 +1,4 @@
-# Salesforce Lead Deduplication
+# 🧹 Salesforce Lead Deduplication
 
 This repository contains an Apex script for deduplicating leads in Salesforce. The script identifies and resolves duplicate leads based on specified criteria, ensuring cleaner and more efficient lead management in your Salesforce org.
 
