@@ -1,4 +1,4 @@
-# Salesforce Lead Deduplication Script
+# Salesforce Lead Deduplication
 
 This repository contains an Apex script for deduplicating leads in Salesforce. The script identifies and resolves duplicate leads based on specified criteria, ensuring cleaner and more efficient lead management in your Salesforce org.
 
@@ -36,6 +36,16 @@ The repository includes a comprehensive test class (`LeadDuplicateCleanerTest.cl
 - Detection of duplicates.
 - Successful deletion of leads.
 - Exception handling.
+
+---
+
+## **🔧 Installation**
+
+To get started with the **rayshader-plots** repository:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/TomWalsh11/salesforce-lead-deduplication.git
 
 ---
 
