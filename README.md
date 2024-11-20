@@ -42,7 +42,7 @@ The repository includes a comprehensive test class (`LeadDuplicateCleanerTest.cl
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
