@@ -41,7 +41,7 @@ The repository includes a comprehensive test class (`LeadDuplicateCleanerTest.cl
 
 ## **🔧 Installation**
 
-To get started with the **rayshader-plots** repository:
+To get started with the **salesforce-lead-deduplication** repository:
 
 1. Clone the repository:
    ```bash
