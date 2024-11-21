@@ -25,8 +25,8 @@ Ensure the test class reflects your business rules to maintain high code coverag
 ## 📋 Usage
 
 The script can be automated using:
-- **Apex Scheduler**
-- **Salesforce Flows or Triggers**
+- **Apex Scheduler.**
+- **Salesforce Flows or Triggers.**
 
 ---
 
