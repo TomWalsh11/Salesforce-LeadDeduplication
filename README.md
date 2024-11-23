@@ -38,10 +38,11 @@ The repository includes a comprehensive test class (`LeadDuplicateCleanerTest.cl
 - Exception handling.
 
 ---
-
 ## **🔧 Installation**
 
-To get started with the **salesforce-lead-deduplication** repository, clone the repository using the command below:
+To get started with the **salesforce-lead-deduplication** repository:
+
+1. Clone the repository:
    ```bash
    git clone https://github.com/TomWalsh11/salesforce-lead-deduplication.git
 
